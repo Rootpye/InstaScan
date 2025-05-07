@@ -9,3 +9,7 @@
 
 # Chrome Web Store
 - link: 
+
+# Support
+If you have questions about code, send email to here.
+- Email: roootpi@gmail.com
