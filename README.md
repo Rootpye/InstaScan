@@ -3,4 +3,4 @@
 - Add a 'Description' button next to the YouTube video and press it to get the video description
 
 # Chrome Web Store
-link: 
+- link: 
