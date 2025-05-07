@@ -12,8 +12,20 @@
         "run_at": "document_idle"
       }
     ],
+    "icons": {
+      "16": "icon.webp",
+      "48": "icon.webp",
+      "64": "icon.webp",
+      "128": "icon.webp"
+    },
     "action": {
-      "default_title": "FastView"
+      "default_title": "FastView",
+      "default_icon": {
+        "16": "icon.webp",
+        "48": "icon.webp",
+        "64": "icon.webp",
+        "128": "icon.webp"
+      }
     }
 }
 
