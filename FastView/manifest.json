@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "QuickInfo",
+    "name": "FastView",
     "version": "1.0.0",
     "description": "An extension that put a button next to the YouTube video to summarize video.",
     "permissions": ["scripting", "activeTab"],
@@ -13,7 +13,7 @@
       }
     ],
     "action": {
-      "default_title": "QuickInfo"
+      "default_title": "FastView"
     }
 }
 
