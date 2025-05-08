@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "InstaScan",
+  "version": "1.0.0",
+  "description": "An extension that put a button next to the YouTube video to summarize video.",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["https://www.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["app.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "64": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_title": "InstaScan",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "64": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
