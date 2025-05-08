@@ -1,6 +1,6 @@
 # InstaScan
-- An extension of YouTube videos that don't tell you the movie/drama title
-- Add a 'Description' button next to the YouTube video and press it to get the video description
+- An extension to help you read description immediately
+- Press 'Description' button next to the YouTube video to get the video description
 
 # Local instruction
 1. Turning on Developer Mode on the Chrome Extensions page
