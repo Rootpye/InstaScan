@@ -8,7 +8,7 @@
 3. Use it on YouTube
 
 # Chrome Web Store
-- link: https://chromewebstore.google.com/detail/jhkhfaajlppefacidejpogoomgafflgk?
+- link: https://chromewebstore.google.com/detail/jhkhfaajlppefacidejpogoomgafflgk
 
 # Support
 If you have questions about code, send email to here.
